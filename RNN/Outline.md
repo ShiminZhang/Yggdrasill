@@ -21,3 +21,16 @@ Subsequently, the discourse transitions to the early RNN models, highlighting in
 The narrative progresses to contemporary advancements in RNN architecture. Modern RNNs have evolved to address gradient-related issues effectively. This document elaborates on the architecture and enhancements of Long Short-Term Memory (LSTM) networks, Bidirectional RNNs (BRNNs), and Neural Turing Machines (NTMs).
 
 The concluding section is dedicated to the practical applications of RNNs, emphasizing the synergy between distinct RNN architectures and their real-world implementations.
+
+## Interesting words
+delineates: describe precisely the structure and composition.
+
+genesis: the initial point of a development
+
+rationale: fundamental konwledge of how a specific thing works
+
+discource: a bunch of words and arguments.
+
+elucidate: explain a complicated concept to make it easier understoo
+d
+mitigate: decrease the impact of negative event.
